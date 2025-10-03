@@ -13,8 +13,10 @@ This project explores the CORD-19 dataset (`metadata.csv`) and builds a simple i
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/
-   cd plp-python-template/week8
+   git clone https://github.com/plp-python-week-8
+
+   cd plp-python-week-8
+
    ```
 2. Install requirements:
    ```bash
@@ -40,3 +42,4 @@ This project explores the CORD-19 dataset (`metadata.csv`) and builds a simple i
 
 - Make sure `metadata.csv` (or `metadata_sample.csv`) is in the project directory before running the app.
 - For more information about CORD-19, visit the [official website](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
+
